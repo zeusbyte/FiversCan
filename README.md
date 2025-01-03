@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://github.com/zeusbyte/FiversCan/blob/main/fiverscan.png?raw=true" alt="Alt Text" width="50%">
 </p>
-<p align="center"><a href="https://t.me/goldsvetcasino1" rel="nofollow">Telegram Community</a></p>
+<p align="center"><a href="https://t.me/+WmIUKY73QeRkN2Q5" rel="nofollow">Telegram Community</a></p>
 
 <p align="center"><span style="color:#ff0000"><strong>Fiverscan/Fiverscool Panel</strong></span></p>
 <p>&nbsp;</p>
@@ -32,6 +32,6 @@
 <p><b>If you have difficulty for setup/installation consider installation services from my telegram.</b></p>
 
 <p dir="auto"><a href="https://t.me/TWFtYWggYWt1IHRha3V0IPCfpK" rel="nofollow">Telegram</a></p>
-<p dir="auto"><a href="https://t.me/goldsvetcasino1" rel="nofollow">Telegram Group</a></p>
+<p dir="auto"><a href="https://t.me/+WmIUKY73QeRkN2Q5" rel="nofollow">Telegram Group</a></p>
 <p dir="auto">&nbsp;</p>
 
