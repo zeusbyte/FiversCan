@@ -11,6 +11,7 @@
 
 <h2>This codes are just preview, contact admin on Telegram for full version</h2>
 
+<p><b>Our bespoke platform solutions are designed to streamline complex processes while enhancing the user experience. By offering a wide range of services such as game content integration, license acquisition, and more, we can help ensure that our online casino business is running smoothly while also providing an improved customer experience for all users of our platform.</p></b>
 <p><b>Currently, we provide the full source on my telegram there are approximately 26 Slots & Casino Providers with any of their latest games which are automatically updates every single provider updating their games.</p></b>
 
 <p><span style="color:#ff0000"><strong>Multiple fixes, merged single database&nbsp;</strong></span><br />
