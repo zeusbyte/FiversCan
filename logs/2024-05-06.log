@@ -1,0 +1,37 @@
+2024-05-06 12:11:27 info: [ Database ]: Database (fiverscan) creating...
+2024-05-06 12:11:27 warn: [ Database ]: Database already exists. (fiverscan)
+2024-05-06 12:11:28 info: [ Database ]: Updating database...
+2024-05-06 12:11:28 info: [ Loaded ]: Database config
+2024-05-06 12:11:28 info: [ Loaded ]: Express config
+2024-05-06 12:11:28 info: [ Server ]: Server is started on 5006 port
+2024-05-06 12:11:46 info: [ Database ]: Database (fiverscan) creating...
+2024-05-06 12:11:46 warn: [ Database ]: Database already exists. (fiverscan)
+2024-05-06 12:11:46 info: [ Database ]: Updating database...
+2024-05-06 12:11:46 info: [ Loaded ]: Database config
+2024-05-06 12:11:46 info: [ Loaded ]: Express config
+2024-05-06 12:11:46 info: [ Server ]: Server is started on 5006 port
+2024-05-06 12:13:32 info: [ Database ]: Database (fiverscan) creating...
+2024-05-06 12:13:32 warn: [ Database ]: Database already exists. (fiverscan)
+2024-05-06 12:13:32 info: [ Database ]: Updating database...
+2024-05-06 12:13:32 info: [ Loaded ]: Database config
+2024-05-06 12:13:32 info: [ Loaded ]: Express config
+2024-05-06 12:13:32 info: [ Server ]: Server is started on 5006 port
+2024-05-06 12:18:03 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:18:20 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:18:24 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:18:29 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:18:33 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:19:03 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:19:05 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:19:27 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:20:23 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:28:42 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:29:05 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:29:17 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:29:35 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:31:00 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:31:37 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:35:35 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:35:39 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:35:55 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
+2024-05-06 12:36:01 error: [ API | Agent | Get Agents By Tree ]: (admin)  Unknown column 'Agent.role' in 'where clause'
