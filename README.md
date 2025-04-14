@@ -2,7 +2,10 @@
 <h2 align="center">NodeJS Source</h2>
 
 <p align="center">
-<img src="https://github.com/zeusbyte/FiversCan/blob/main/fiverscan.png?raw=true" alt="Alt Text" width="40%">
+  <img src="https://github.com/zeusbyte/FiversCan/blob/main/fiverscan.png?raw=true" 
+       alt="FiverScan Logo" 
+       width="200" 
+       height="200">
 </p>
 <p align="center"><a href="https://t.me/osscasino" rel="nofollow">Telegram Community</a></p>
 
